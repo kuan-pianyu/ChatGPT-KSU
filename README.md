@@ -32,7 +32,7 @@ KernelSU 官方 GitHub：https://github.com/tiann/KernelSU
  
 Telegram群组
  
-- ChatGPT KSU 官方频道：https://t.me/chatgptksu00
+- 🌟ChatGPT KSU 官方频道：https://t.me/chatgptksu00
 ​
 - KernelSU 官方电报群组：@KernelSU
  
@@ -44,4 +44,5 @@ Telegram群组
 免责声明
  
 ChatGPT KSU 仅为爱好者非商用UI美化项目，仅修改管理器App界面，不改动内核底层逻辑。
-使用本项目所产生的设备故障、数据丢失等一切风险，均由使用者自行承担。
+
+⚠️使用本项目所产生的设备故障、数据丢失等一切风险，均由使用者自行承担。
