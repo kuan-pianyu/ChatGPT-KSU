@@ -6,6 +6,7 @@ ChatGPT KSU 是基于 KernelSU 原版进行二次定制美化的项目。仅对 
 本项目属于爱好者非商用UI美化二次创作，内核底层相关知识产权归属 KernelSU 官方开发团队，项目遵循对应的开源协议。
  
 KernelSU 官方网站：https://kernelsu.org/zh_CN/
+
 KernelSU 官方 GitHub：https://github.com/tiann/KernelSU
 
 ✨ 项目特色
