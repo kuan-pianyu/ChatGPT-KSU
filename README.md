@@ -1,4 +1,5 @@
-#ChatGPT KSU 
+「ChatGPT KSU」
+
 <img width="1519" height="1519" alt="1000002608" src="https://github.com/user-attachments/assets/c760383e-d4d0-4bcb-b84c-56b93eda5d72" />
 
 ChatGPT KSU 是基于 KernelSU 原版进行二次定制美化的项目。仅对 KernelSU 管理器 App 进行界面重构，采用 ChatGPT 极简黑白UI风格重绘视觉与交互，内核底层代码完全保持原样，无篡改、无额外植入程序，原生 Root 与模块相关能力与原版保持一致。
